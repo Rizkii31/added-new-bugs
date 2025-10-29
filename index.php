@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore iure veniam recusandae harum accusamus doloremque, quidem quam laboriosam dolor dolores non corrupti provident illum dicta voluptatum! Tenetur quisquam laudantium similique.
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia repellat tenetur eaque culpa, dolores id quibusdam minus ea ullam dicta, voluptatem, sapiente neque incidunt adipisci molestias porro! Repellat, ratione rem.
+   ini master
 </body>
 </html>
